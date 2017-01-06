@@ -1,4 +1,4 @@
 # How to setup
 ```
-carthage update --platform iOS
+carthage bootstrap --platform iOS
 ```
